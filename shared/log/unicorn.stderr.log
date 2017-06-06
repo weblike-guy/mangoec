@@ -1,0 +1,459 @@
+I, [2017-05-16T08:45:18.922515 #2782]  INFO -- : Refreshing Gem list
+I, [2017-05-16T08:45:20.343434 #2782]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=12
+I, [2017-05-16T08:45:20.343566 #2782]  INFO -- : worker=0 spawning...
+I, [2017-05-16T08:45:20.344537 #2782]  INFO -- : worker=1 spawning...
+I, [2017-05-16T08:45:20.345189 #2782]  INFO -- : master process ready
+I, [2017-05-16T08:45:20.349599 #2785]  INFO -- : worker=0 spawned pid=2785
+I, [2017-05-16T08:45:20.349705 #2785]  INFO -- : worker=0 ready
+I, [2017-05-16T08:45:20.350277 #2787]  INFO -- : worker=1 spawned pid=2787
+I, [2017-05-16T08:45:20.350412 #2787]  INFO -- : worker=1 ready
+I, [2017-05-16T08:48:01.361877 #2782]  INFO -- : reaped #<Process::Status: pid 2785 exit 0> worker=0
+I, [2017-05-16T08:48:01.361975 #2782]  INFO -- : reaped #<Process::Status: pid 2787 exit 0> worker=1
+I, [2017-05-16T08:48:01.362031 #2782]  INFO -- : master complete
+I, [2017-05-16T08:49:45.274089 #1594]  INFO -- : Refreshing Gem list
+I, [2017-05-16T08:49:47.821845 #1594]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-16T08:49:47.822000 #1594]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=12
+I, [2017-05-16T08:49:47.822087 #1594]  INFO -- : worker=0 spawning...
+I, [2017-05-16T08:49:47.822962 #1594]  INFO -- : worker=1 spawning...
+I, [2017-05-16T08:49:47.823672 #1594]  INFO -- : master process ready
+I, [2017-05-16T08:49:47.827922 #1598]  INFO -- : worker=0 spawned pid=1598
+I, [2017-05-16T08:49:47.828079 #1598]  INFO -- : worker=0 ready
+I, [2017-05-16T08:49:47.828641 #1600]  INFO -- : worker=1 spawned pid=1600
+I, [2017-05-16T08:49:47.828792 #1600]  INFO -- : worker=1 ready
+I, [2017-05-16T09:06:35.754152 #1594]  INFO -- : reaped #<Process::Status: pid 1598 exit 0> worker=0
+I, [2017-05-16T09:06:35.754264 #1594]  INFO -- : reaped #<Process::Status: pid 1600 exit 0> worker=1
+I, [2017-05-16T09:06:35.754327 #1594]  INFO -- : master complete
+I, [2017-05-16T09:08:45.555231 #2104]  INFO -- : Refreshing Gem list
+I, [2017-05-16T09:08:50.143424 #2104]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-16T09:08:50.143577 #2104]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=12
+I, [2017-05-16T09:08:50.143681 #2104]  INFO -- : worker=0 spawning...
+I, [2017-05-16T09:08:50.144882 #2104]  INFO -- : worker=1 spawning...
+I, [2017-05-16T09:08:50.146370 #2104]  INFO -- : master process ready
+I, [2017-05-16T09:08:50.150132 #2108]  INFO -- : worker=0 spawned pid=2108
+I, [2017-05-16T09:08:50.150291 #2108]  INFO -- : worker=0 ready
+I, [2017-05-16T09:08:50.150888 #2111]  INFO -- : worker=1 spawned pid=2111
+I, [2017-05-16T09:08:50.151015 #2111]  INFO -- : worker=1 ready
+I, [2017-05-16T13:32:44.654219 #2104]  INFO -- : reaped #<Process::Status: pid 2108 exit 0> worker=0
+I, [2017-05-16T13:32:44.654324 #2104]  INFO -- : reaped #<Process::Status: pid 2111 exit 0> worker=1
+I, [2017-05-16T13:32:44.654381 #2104]  INFO -- : master complete
+I, [2017-05-16T13:33:23.034364 #5064]  INFO -- : Refreshing Gem list
+I, [2017-05-16T13:33:27.294636 #5064]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-16T13:33:27.294800 #5064]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=12
+I, [2017-05-16T13:33:27.294902 #5064]  INFO -- : worker=0 spawning...
+I, [2017-05-16T13:33:27.296882 #5064]  INFO -- : worker=1 spawning...
+I, [2017-05-16T13:33:27.298741 #5064]  INFO -- : master process ready
+I, [2017-05-16T13:33:27.303414 #5067]  INFO -- : worker=0 spawned pid=5067
+I, [2017-05-16T13:33:27.303567 #5067]  INFO -- : worker=0 ready
+I, [2017-05-16T13:33:27.304190 #5070]  INFO -- : worker=1 spawned pid=5070
+I, [2017-05-16T13:33:27.304329 #5070]  INFO -- : worker=1 ready
+I, [2017-05-18T05:57:27.014317 #5064]  INFO -- : reaped #<Process::Status: pid 5067 exit 0> worker=0
+I, [2017-05-18T05:57:27.016633 #5064]  INFO -- : reaped #<Process::Status: pid 5070 exit 0> worker=1
+I, [2017-05-18T05:57:27.016782 #5064]  INFO -- : master complete
+I, [2017-05-18T06:06:32.656270 #1642]  INFO -- : Refreshing Gem list
+I, [2017-05-18T06:06:39.176459 #1642]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-18T06:06:39.176612 #1642]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=12
+I, [2017-05-18T06:06:39.176708 #1642]  INFO -- : worker=0 spawning...
+I, [2017-05-18T06:06:39.177882 #1642]  INFO -- : worker=1 spawning...
+I, [2017-05-18T06:06:39.178760 #1642]  INFO -- : master process ready
+I, [2017-05-18T06:06:39.182666 #1645]  INFO -- : worker=0 spawned pid=1645
+I, [2017-05-18T06:06:39.182822 #1645]  INFO -- : worker=0 ready
+I, [2017-05-18T06:06:39.184457 #1647]  INFO -- : worker=1 spawned pid=1647
+I, [2017-05-18T06:06:39.184595 #1647]  INFO -- : worker=1 ready
+DEPRECATION WARNING: Spree::Money was initialized with nil, which will not be supported in the future. Instead use Spree::Money.new("0.00", options) or Spree::Money.parse(nil) (called from load at /home/haru/.rbenv/versions/2.4.1/bin/unicorn:22)
+I, [2017-05-19T03:10:29.270537 #1642]  INFO -- : reaped #<Process::Status: pid 1645 exit 0> worker=0
+I, [2017-05-19T03:10:29.271099 #1642]  INFO -- : reaped #<Process::Status: pid 1647 exit 0> worker=1
+I, [2017-05-19T03:10:29.271177 #1642]  INFO -- : master complete
+I, [2017-05-19T03:14:32.649917 #1895]  INFO -- : Refreshing Gem list
+I, [2017-05-19T03:14:39.624658 #1895]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-19T03:14:39.624814 #1895]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=12
+I, [2017-05-19T03:14:39.624902 #1895]  INFO -- : worker=0 spawning...
+I, [2017-05-19T03:14:39.625999 #1895]  INFO -- : worker=1 spawning...
+I, [2017-05-19T03:14:39.626819 #1895]  INFO -- : master process ready
+I, [2017-05-19T03:14:39.631068 #1899]  INFO -- : worker=0 spawned pid=1899
+I, [2017-05-19T03:14:39.631196 #1899]  INFO -- : worker=0 ready
+I, [2017-05-19T03:14:39.631729 #1901]  INFO -- : worker=1 spawned pid=1901
+I, [2017-05-19T03:14:39.631835 #1901]  INFO -- : worker=1 ready
+I, [2017-05-19T04:04:02.374395 #1895]  INFO -- : reaped #<Process::Status: pid 1899 exit 0> worker=0
+I, [2017-05-19T04:04:02.374908 #1895]  INFO -- : reaped #<Process::Status: pid 1901 exit 0> worker=1
+I, [2017-05-19T04:04:02.374985 #1895]  INFO -- : master complete
+I, [2017-05-19T04:08:07.143377 #1542]  INFO -- : Refreshing Gem list
+I, [2017-05-19T04:08:16.342079 #1542]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-19T04:08:16.342231 #1542]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=12
+I, [2017-05-19T04:08:16.342329 #1542]  INFO -- : worker=0 spawning...
+I, [2017-05-19T04:08:16.343515 #1542]  INFO -- : worker=1 spawning...
+I, [2017-05-19T04:08:16.344423 #1542]  INFO -- : master process ready
+I, [2017-05-19T04:08:16.348807 #1546]  INFO -- : worker=0 spawned pid=1546
+I, [2017-05-19T04:08:16.348985 #1546]  INFO -- : worker=0 ready
+I, [2017-05-19T04:08:16.349690 #1548]  INFO -- : worker=1 spawned pid=1548
+I, [2017-05-19T04:08:16.349824 #1548]  INFO -- : worker=1 ready
+I, [2017-05-19T12:01:51.302565 #1542]  INFO -- : reaped #<Process::Status: pid 1546 exit 0> worker=0
+I, [2017-05-19T12:01:51.302652 #1542]  INFO -- : reaped #<Process::Status: pid 1548 exit 0> worker=1
+I, [2017-05-19T12:01:51.302714 #1542]  INFO -- : master complete
+I, [2017-05-19T12:04:28.674391 #4850]  INFO -- : Refreshing Gem list
+I, [2017-05-19T12:04:38.421528 #4850]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-19T12:04:38.421676 #4850]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-19T12:04:38.421788 #4850]  INFO -- : worker=0 spawning...
+I, [2017-05-19T12:04:38.423053 #4850]  INFO -- : worker=1 spawning...
+I, [2017-05-19T12:04:38.424020 #4850]  INFO -- : master process ready
+I, [2017-05-19T12:04:38.428490 #4855]  INFO -- : worker=0 spawned pid=4855
+I, [2017-05-19T12:04:38.428640 #4855]  INFO -- : worker=0 ready
+I, [2017-05-19T12:04:38.429214 #4857]  INFO -- : worker=1 spawned pid=4857
+I, [2017-05-19T12:04:38.429553 #4857]  INFO -- : worker=1 ready
+I, [2017-05-19T12:20:16.733351 #4850]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2017-05-19T12:20:16.841549 #4850]  INFO -- : Refreshing Gem list
+I, [2017-05-19T12:20:16.853284 #4850]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2017-05-19T12:20:16.853372 #4850]  INFO -- : reaped #<Process::Status: pid 4855 exit 0> worker=0
+I, [2017-05-19T12:20:16.853412 #4850]  INFO -- : reaped #<Process::Status: pid 4857 exit 0> worker=1
+I, [2017-05-19T12:20:16.853500 #4850]  INFO -- : master complete
+I, [2017-05-19T12:22:25.295782 #1547]  INFO -- : Refreshing Gem list
+I, [2017-05-19T12:22:34.805171 #1547]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-19T12:22:34.805318 #1547]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-19T12:22:34.805439 #1547]  INFO -- : worker=0 spawning...
+I, [2017-05-19T12:22:34.806662 #1547]  INFO -- : worker=1 spawning...
+I, [2017-05-19T12:22:34.807326 #1552]  INFO -- : worker=0 spawned pid=1552
+I, [2017-05-19T12:22:34.807463 #1552]  INFO -- : worker=0 ready
+I, [2017-05-19T12:22:34.808441 #1547]  INFO -- : master process ready
+I, [2017-05-19T12:22:34.812745 #1555]  INFO -- : worker=1 spawned pid=1555
+I, [2017-05-19T12:22:34.812877 #1555]  INFO -- : worker=1 ready
+I, [2017-05-19T12:59:00.344238 #1547]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2017-05-19T12:59:00.468583 #1547]  INFO -- : Refreshing Gem list
+I, [2017-05-19T12:59:00.478606 #1547]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2017-05-19T12:59:00.478687 #1547]  INFO -- : reaped #<Process::Status: pid 1552 exit 0> worker=0
+I, [2017-05-19T12:59:00.478723 #1547]  INFO -- : reaped #<Process::Status: pid 1555 exit 0> worker=1
+I, [2017-05-19T12:59:00.478811 #1547]  INFO -- : master complete
+I, [2017-05-19T13:07:25.088089 #1540]  INFO -- : Refreshing Gem list
+I, [2017-05-19T13:07:34.790131 #1540]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-19T13:07:34.790281 #1540]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-19T13:07:34.790369 #1540]  INFO -- : worker=0 spawning...
+I, [2017-05-19T13:07:34.791564 #1540]  INFO -- : worker=1 spawning...
+I, [2017-05-19T13:07:34.792208 #1545]  INFO -- : worker=0 spawned pid=1545
+I, [2017-05-19T13:07:34.792349 #1545]  INFO -- : worker=0 ready
+I, [2017-05-19T13:07:34.793329 #1540]  INFO -- : master process ready
+I, [2017-05-19T13:07:34.797524 #1548]  INFO -- : worker=1 spawned pid=1548
+I, [2017-05-19T13:07:34.797665 #1548]  INFO -- : worker=1 ready
+I, [2017-05-19T14:03:42.756941 #1540]  INFO -- : reaped #<Process::Status: pid 1545 exit 0> worker=0
+I, [2017-05-19T14:03:42.757027 #1540]  INFO -- : reaped #<Process::Status: pid 1548 exit 0> worker=1
+I, [2017-05-19T14:03:42.757097 #1540]  INFO -- : master complete
+I, [2017-05-19T14:07:18.218680 #1587]  INFO -- : Refreshing Gem list
+I, [2017-05-19T14:07:27.816924 #1587]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-19T14:07:27.817078 #1587]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-19T14:07:27.817168 #1587]  INFO -- : worker=0 spawning...
+I, [2017-05-19T14:07:27.818326 #1587]  INFO -- : worker=1 spawning...
+I, [2017-05-19T14:07:27.818906 #1592]  INFO -- : worker=0 spawned pid=1592
+I, [2017-05-19T14:07:27.819034 #1592]  INFO -- : worker=0 ready
+I, [2017-05-19T14:07:27.819970 #1587]  INFO -- : master process ready
+I, [2017-05-19T14:07:27.823994 #1595]  INFO -- : worker=1 spawned pid=1595
+I, [2017-05-19T14:07:27.824129 #1595]  INFO -- : worker=1 ready
+DEPRECATION WARNING: Setting your default country via its ID is deprecated. Please set your default country via the `default_country_iso` setting. (called from load at /home/haru/.rbenv/versions/2.4.1/bin/unicorn:22)
+DEPRECATION WARNING: Setting your default country via its ID is deprecated. Please set your default country via the `default_country_iso` setting. (called from load at /home/haru/.rbenv/versions/2.4.1/bin/unicorn:22)
+DEPRECATION WARNING: Setting your default country via its ID is deprecated. Please set your default country via the `default_country_iso` setting. (called from load at /home/haru/.rbenv/versions/2.4.1/bin/unicorn:22)
+DEPRECATION WARNING: Setting your default country via its ID is deprecated. Please set your default country via the `default_country_iso` setting. (called from load at /home/haru/.rbenv/versions/2.4.1/bin/unicorn:22)
+I, [2017-05-21T02:44:12.838977 #1587]  INFO -- : reaped #<Process::Status: pid 1592 exit 0> worker=0
+I, [2017-05-21T02:44:12.839065 #1587]  INFO -- : reaped #<Process::Status: pid 1595 exit 0> worker=1
+I, [2017-05-21T02:44:12.839121 #1587]  INFO -- : master complete
+I, [2017-05-21T02:45:59.638774 #1534]  INFO -- : Refreshing Gem list
+I, [2017-05-21T02:46:08.937758 #1534]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-21T02:46:08.937913 #1534]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-21T02:46:08.938007 #1534]  INFO -- : worker=0 spawning...
+I, [2017-05-21T02:46:08.939338 #1534]  INFO -- : worker=1 spawning...
+I, [2017-05-21T02:46:08.940038 #1539]  INFO -- : worker=0 spawned pid=1539
+I, [2017-05-21T02:46:08.940170 #1539]  INFO -- : worker=0 ready
+I, [2017-05-21T02:46:08.941162 #1534]  INFO -- : master process ready
+I, [2017-05-21T02:46:08.944253 #1542]  INFO -- : worker=1 spawned pid=1542
+I, [2017-05-21T02:46:08.944377 #1542]  INFO -- : worker=1 ready
+DEPRECATION WARNING: Setting your default country via its ID is deprecated. Please set your default country via the `default_country_iso` setting. (called from load at /home/haru/.rbenv/versions/2.4.1/bin/unicorn:22)
+DEPRECATION WARNING: Setting your default country via its ID is deprecated. Please set your default country via the `default_country_iso` setting. (called from load at /home/haru/.rbenv/versions/2.4.1/bin/unicorn:22)
+DEPRECATION WARNING: Using :icon option is deprecated. Icons could not be visible in future versions. (called from block in _fbf3f4c58f0ecb8d22fdb7423a9ceca8 at /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/solidus_globalize-1a7ba87ba907/app/views/spree/admin/translations/product.html.erb:4)
+I, [2017-05-21T07:06:26.878728 #1534]  INFO -- : reaped #<Process::Status: pid 1539 exit 0> worker=0
+I, [2017-05-21T07:06:26.878822 #1534]  INFO -- : reaped #<Process::Status: pid 1542 exit 0> worker=1
+I, [2017-05-21T07:06:26.878923 #1534]  INFO -- : master complete
+I, [2017-05-21T07:19:12.427696 #1568]  INFO -- : Refreshing Gem list
+I, [2017-05-21T07:19:21.552978 #1568]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-21T07:19:21.553130 #1568]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-21T07:19:21.553219 #1568]  INFO -- : worker=0 spawning...
+I, [2017-05-21T07:19:21.554457 #1568]  INFO -- : worker=1 spawning...
+I, [2017-05-21T07:19:21.555773 #1568]  INFO -- : master process ready
+I, [2017-05-21T07:19:21.560274 #1572]  INFO -- : worker=0 spawned pid=1572
+I, [2017-05-21T07:19:21.560416 #1572]  INFO -- : worker=0 ready
+I, [2017-05-21T07:19:21.561193 #1574]  INFO -- : worker=1 spawned pid=1574
+I, [2017-05-21T07:19:21.561475 #1574]  INFO -- : worker=1 ready
+I, [2017-05-21T08:24:28.896272 #1568]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2017-05-21T08:24:29.031846 #1568]  INFO -- : Refreshing Gem list
+I, [2017-05-21T08:24:29.044498 #1568]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2017-05-21T08:24:29.044577 #1568]  INFO -- : reaped #<Process::Status: pid 1572 exit 0> worker=0
+I, [2017-05-21T08:24:29.044623 #1568]  INFO -- : reaped #<Process::Status: pid 1574 exit 0> worker=1
+I, [2017-05-21T08:24:29.044710 #1568]  INFO -- : master complete
+I, [2017-05-21T08:28:13.700180 #1524]  INFO -- : Refreshing Gem list
+I, [2017-05-21T08:28:22.958724 #1524]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-21T08:28:22.958879 #1524]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-21T08:28:22.958994 #1524]  INFO -- : worker=0 spawning...
+I, [2017-05-21T08:28:22.960205 #1524]  INFO -- : worker=1 spawning...
+I, [2017-05-21T08:28:22.960895 #1528]  INFO -- : worker=0 spawned pid=1528
+I, [2017-05-21T08:28:22.961039 #1528]  INFO -- : worker=0 ready
+I, [2017-05-21T08:28:22.962028 #1524]  INFO -- : master process ready
+I, [2017-05-21T08:28:22.964680 #1531]  INFO -- : worker=1 spawned pid=1531
+I, [2017-05-21T08:28:22.964802 #1531]  INFO -- : worker=1 ready
+I, [2017-05-21T08:39:26.468631 #1524]  INFO -- : reaped #<Process::Status: pid 1528 exit 0> worker=0
+I, [2017-05-21T08:39:26.468728 #1524]  INFO -- : reaped #<Process::Status: pid 1531 exit 0> worker=1
+I, [2017-05-21T08:39:26.468825 #1524]  INFO -- : master complete
+I, [2017-05-21T08:41:02.309185 #1540]  INFO -- : Refreshing Gem list
+I, [2017-05-21T08:41:11.869192 #1540]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-21T08:41:11.869337 #1540]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-21T08:41:11.869427 #1540]  INFO -- : worker=0 spawning...
+I, [2017-05-21T08:41:11.870659 #1540]  INFO -- : worker=1 spawning...
+I, [2017-05-21T08:41:11.871587 #1540]  INFO -- : master process ready
+I, [2017-05-21T08:41:11.875800 #1545]  INFO -- : worker=0 spawned pid=1545
+I, [2017-05-21T08:41:11.875940 #1545]  INFO -- : worker=0 ready
+I, [2017-05-21T08:41:11.876501 #1547]  INFO -- : worker=1 spawned pid=1547
+I, [2017-05-21T08:41:11.876617 #1547]  INFO -- : worker=1 ready
+I, [2017-05-21T10:29:53.010169 #1540]  INFO -- : reaped #<Process::Status: pid 1545 exit 0> worker=0
+I, [2017-05-21T10:29:53.010255 #1540]  INFO -- : reaped #<Process::Status: pid 1547 exit 0> worker=1
+I, [2017-05-21T10:29:53.010312 #1540]  INFO -- : master complete
+I, [2017-05-21T10:31:25.679330 #1531]  INFO -- : Refreshing Gem list
+I, [2017-05-21T10:31:35.325927 #1531]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-21T10:31:35.326162 #1531]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-21T10:31:35.326272 #1531]  INFO -- : worker=0 spawning...
+I, [2017-05-21T10:31:35.327455 #1531]  INFO -- : worker=1 spawning...
+I, [2017-05-21T10:31:35.328146 #1536]  INFO -- : worker=0 spawned pid=1536
+I, [2017-05-21T10:31:35.328286 #1536]  INFO -- : worker=0 ready
+I, [2017-05-21T10:31:35.329259 #1531]  INFO -- : master process ready
+I, [2017-05-21T10:31:35.332333 #1539]  INFO -- : worker=1 spawned pid=1539
+I, [2017-05-21T10:31:35.332455 #1539]  INFO -- : worker=1 ready
+I, [2017-05-21T10:41:30.680046 #1531]  INFO -- : reaped #<Process::Status: pid 1536 exit 0> worker=0
+I, [2017-05-21T10:41:30.686483 #1531]  INFO -- : reaped #<Process::Status: pid 1539 exit 0> worker=1
+I, [2017-05-21T10:41:30.686564 #1531]  INFO -- : master complete
+I, [2017-05-21T10:42:55.442323 #1843]  INFO -- : Refreshing Gem list
+I, [2017-05-21T10:43:05.138006 #1843]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-21T10:43:05.138158 #1843]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-21T10:43:05.138256 #1843]  INFO -- : worker=0 spawning...
+I, [2017-05-21T10:43:05.139473 #1843]  INFO -- : worker=1 spawning...
+I, [2017-05-21T10:43:05.141087 #1843]  INFO -- : master process ready
+I, [2017-05-21T10:43:05.140181 #1848]  INFO -- : worker=0 spawned pid=1848
+I, [2017-05-21T10:43:05.143934 #1848]  INFO -- : worker=0 ready
+I, [2017-05-21T10:43:05.144602 #1851]  INFO -- : worker=1 spawned pid=1851
+I, [2017-05-21T10:43:05.144732 #1851]  INFO -- : worker=1 ready
+I, [2017-05-21T11:13:34.386207 #1843]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2017-05-21T11:13:34.535492 #1843]  INFO -- : Refreshing Gem list
+I, [2017-05-21T11:13:34.555326 #1843]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2017-05-21T11:13:34.555412 #1843]  INFO -- : reaped #<Process::Status: pid 1848 exit 0> worker=0
+I, [2017-05-21T11:13:34.555450 #1843]  INFO -- : reaped #<Process::Status: pid 1851 exit 0> worker=1
+I, [2017-05-21T11:13:34.555534 #1843]  INFO -- : master complete
+I, [2017-05-21T11:15:01.777274 #1504]  INFO -- : Refreshing Gem list
+config.eager_load is set to nil. Please update your config/environments/*.rb files accordingly:
+
+  * development - set it to false
+  * test - set it to false (unless you use a tool that preloads your test environment)
+  * production - set it to true
+
+/home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.0.3/lib/active_record/connection_adapters/connection_specification.rb:236:in `resolve_symbol_connection': '-D' database is not configured. Available: ["default", "development", "test", "production"] (ActiveRecord::AdapterNotSpecified)
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.0.3/lib/active_record/connection_adapters/connection_specification.rb:217:in `resolve_connection'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.0.3/lib/active_record/connection_adapters/connection_specification.rb:138:in `resolve'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.0.3/lib/active_record/connection_adapters/connection_specification.rb:168:in `spec'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.0.3/lib/active_record/connection_handling.rb:53:in `establish_connection'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.0.3/lib/active_record/railtie.rb:125:in `block (2 levels) in <class:Railtie>'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/lazy_load_hooks.rb:43:in `instance_eval'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/lazy_load_hooks.rb:43:in `execute_hook'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/lazy_load_hooks.rb:33:in `block in on_load'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/lazy_load_hooks.rb:32:in `each'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activesupport-5.0.3/lib/active_support/lazy_load_hooks.rb:32:in `on_load'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.0.3/lib/active_record/railtie.rb:121:in `block in <class:Railtie>'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-5.0.3/lib/rails/initializable.rb:30:in `instance_exec'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-5.0.3/lib/rails/initializable.rb:30:in `run'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-5.0.3/lib/rails/initializable.rb:55:in `block in run_initializers'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/2.4.0/tsort.rb:228:in `block in tsort_each'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/2.4.0/tsort.rb:350:in `block (2 levels) in each_strongly_connected_component'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/2.4.0/tsort.rb:431:in `each_strongly_connected_component_from'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/2.4.0/tsort.rb:349:in `block in each_strongly_connected_component'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/2.4.0/tsort.rb:347:in `each'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/2.4.0/tsort.rb:347:in `call'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/2.4.0/tsort.rb:347:in `each_strongly_connected_component'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/2.4.0/tsort.rb:226:in `tsort_each'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/2.4.0/tsort.rb:205:in `tsort_each'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-5.0.3/lib/rails/initializable.rb:54:in `run_initializers'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-5.0.3/lib/rails/application.rb:352:in `initialize!'
+	from /home/haru/rails-app/mangoec/config/environment.rb:5:in `<top (required)>'
+	from config.ru:4:in `require_relative'
+	from config.ru:4:in `block in <main>'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-2.0.3/lib/rack/builder.rb:55:in `instance_eval'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rack-2.0.3/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.3.0/lib/unicorn.rb:56:in `eval'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.3.0/lib/unicorn.rb:56:in `block in builder'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.3.0/lib/unicorn/http_server.rb:796:in `build_app!'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.3.0/lib/unicorn/http_server.rb:139:in `start'
+	from /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.3.0/bin/unicorn:126:in `<top (required)>'
+	from /home/haru/.rbenv/versions/2.4.1/bin/unicorn:22:in `load'
+	from /home/haru/.rbenv/versions/2.4.1/bin/unicorn:22:in `<main>'
+I, [2017-05-21T11:26:38.938880 #1532]  INFO -- : Refreshing Gem list
+I, [2017-05-21T11:26:48.228853 #1532]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-21T11:26:48.228998 #1532]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-21T11:26:48.229098 #1532]  INFO -- : worker=0 spawning...
+I, [2017-05-21T11:26:48.230339 #1532]  INFO -- : worker=1 spawning...
+I, [2017-05-21T11:26:48.231455 #1532]  INFO -- : master process ready
+I, [2017-05-21T11:26:48.235931 #1536]  INFO -- : worker=0 spawned pid=1536
+I, [2017-05-21T11:26:48.236056 #1536]  INFO -- : worker=0 ready
+I, [2017-05-21T11:26:48.236688 #1538]  INFO -- : worker=1 spawned pid=1538
+I, [2017-05-21T11:26:48.236793 #1538]  INFO -- : worker=1 ready
+I, [2017-05-22T08:57:35.681203 #1532]  INFO -- : reaped #<Process::Status: pid 1536 exit 0> worker=0
+I, [2017-05-22T08:57:35.681303 #1532]  INFO -- : reaped #<Process::Status: pid 1538 exit 0> worker=1
+I, [2017-05-22T08:57:35.681396 #1532]  INFO -- : master complete
+I, [2017-05-22T08:59:27.213153 #1553]  INFO -- : Refreshing Gem list
+I, [2017-05-22T08:59:36.790895 #1553]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-22T08:59:36.791042 #1553]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-22T08:59:36.791128 #1553]  INFO -- : worker=0 spawning...
+I, [2017-05-22T08:59:36.792470 #1553]  INFO -- : worker=1 spawning...
+I, [2017-05-22T08:59:36.793129 #1558]  INFO -- : worker=0 spawned pid=1558
+I, [2017-05-22T08:59:36.793263 #1558]  INFO -- : worker=0 ready
+I, [2017-05-22T08:59:36.794175 #1553]  INFO -- : master process ready
+I, [2017-05-22T08:59:36.798272 #1561]  INFO -- : worker=1 spawned pid=1561
+I, [2017-05-22T08:59:36.798399 #1561]  INFO -- : worker=1 ready
+I, [2017-05-22T09:05:31.384787 #1553]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2017-05-22T09:05:31.513810 #1553]  INFO -- : Refreshing Gem list
+I, [2017-05-22T09:05:31.521728 #1553]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2017-05-22T09:05:31.521803 #1553]  INFO -- : reaped #<Process::Status: pid 1558 exit 0> worker=0
+I, [2017-05-22T09:05:31.521845 #1553]  INFO -- : reaped #<Process::Status: pid 1561 exit 0> worker=1
+I, [2017-05-22T09:05:31.521933 #1553]  INFO -- : master complete
+I, [2017-05-22T09:07:08.270614 #1599]  INFO -- : Refreshing Gem list
+I, [2017-05-22T09:07:17.815197 #1599]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-22T09:07:17.815353 #1599]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-22T09:07:17.815445 #1599]  INFO -- : worker=0 spawning...
+I, [2017-05-22T09:07:17.816820 #1599]  INFO -- : worker=1 spawning...
+I, [2017-05-22T09:07:17.817457 #1604]  INFO -- : worker=0 spawned pid=1604
+I, [2017-05-22T09:07:17.817592 #1604]  INFO -- : worker=0 ready
+I, [2017-05-22T09:07:17.818525 #1599]  INFO -- : master process ready
+I, [2017-05-22T09:07:17.822661 #1607]  INFO -- : worker=1 spawned pid=1607
+I, [2017-05-22T09:07:17.822789 #1607]  INFO -- : worker=1 ready
+I, [2017-05-22T11:00:29.786564 #1599]  INFO -- : reaped #<Process::Status: pid 1604 exit 0> worker=0
+I, [2017-05-22T11:00:29.786647 #1599]  INFO -- : reaped #<Process::Status: pid 1607 exit 0> worker=1
+I, [2017-05-22T11:00:29.786705 #1599]  INFO -- : master complete
+I, [2017-05-22T11:02:00.522221 #1551]  INFO -- : Refreshing Gem list
+I, [2017-05-22T11:02:10.547971 #1551]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-22T11:02:10.548120 #1551]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-22T11:02:10.548216 #1551]  INFO -- : worker=0 spawning...
+I, [2017-05-22T11:02:10.549592 #1551]  INFO -- : worker=1 spawning...
+I, [2017-05-22T11:02:10.550275 #1557]  INFO -- : worker=0 spawned pid=1557
+I, [2017-05-22T11:02:10.550429 #1557]  INFO -- : worker=0 ready
+I, [2017-05-22T11:02:10.551426 #1551]  INFO -- : master process ready
+I, [2017-05-22T11:02:10.555733 #1560]  INFO -- : worker=1 spawned pid=1560
+I, [2017-05-22T11:02:10.555912 #1560]  INFO -- : worker=1 ready
+DEPRECATION WARNING: Using :icon option is deprecated. Icons could not be visible in future versions. (called from load at /home/haru/.rbenv/versions/2.4.1/bin/unicorn:22)
+I, [2017-05-24T12:04:25.563053 #1551]  INFO -- : reaped #<Process::Status: pid 1557 exit 0> worker=0
+I, [2017-05-24T12:04:25.565764 #1551]  INFO -- : reaped #<Process::Status: pid 1560 exit 0> worker=1
+I, [2017-05-24T12:04:25.565875 #1551]  INFO -- : master complete
+I, [2017-05-24T12:06:15.866638 #1567]  INFO -- : Refreshing Gem list
+I, [2017-05-24T12:06:25.360445 #1567]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-24T12:06:25.360594 #1567]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-24T12:06:25.360683 #1567]  INFO -- : worker=0 spawning...
+I, [2017-05-24T12:06:25.362013 #1567]  INFO -- : worker=1 spawning...
+I, [2017-05-24T12:06:25.363095 #1567]  INFO -- : master process ready
+I, [2017-05-24T12:06:25.366199 #1571]  INFO -- : worker=0 spawned pid=1571
+I, [2017-05-24T12:06:25.366356 #1571]  INFO -- : worker=0 ready
+I, [2017-05-24T12:06:25.366981 #1574]  INFO -- : worker=1 spawned pid=1574
+I, [2017-05-24T12:06:25.367100 #1574]  INFO -- : worker=1 ready
+DEPRECATION WARNING: Using :icon option is deprecated. Icons could not be visible in future versions. (called from block in _6d03edb1c2526a22710bcd1b2cca587f at /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/solidus_globalize-1a7ba87ba907/app/views/spree/admin/translations/product.html.erb:4)
+DEPRECATION WARNING: Using :icon option is deprecated. Icons could not be visible in future versions. (called from block in _a5f2921ef4ae5acc185fafa5969aad3b at /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/solidus_globalize-1a7ba87ba907/app/views/spree/admin/translations/product.html.erb:4)
+I, [2017-05-24T12:35:46.555603 #1567]  INFO -- : reaped #<Process::Status: pid 1571 exit 0> worker=0
+I, [2017-05-24T12:35:46.555697 #1567]  INFO -- : reaped #<Process::Status: pid 1574 exit 0> worker=1
+I, [2017-05-24T12:35:46.555758 #1567]  INFO -- : master complete
+I, [2017-05-24T12:37:27.565843 #1554]  INFO -- : Refreshing Gem list
+I, [2017-05-24T12:37:36.847104 #1554]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-24T12:37:36.847260 #1554]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-24T12:37:36.847385 #1554]  INFO -- : worker=0 spawning...
+I, [2017-05-24T12:37:36.848766 #1554]  INFO -- : worker=1 spawning...
+I, [2017-05-24T12:37:36.849485 #1560]  INFO -- : worker=0 spawned pid=1560
+I, [2017-05-24T12:37:36.849642 #1560]  INFO -- : worker=0 ready
+I, [2017-05-24T12:37:36.850646 #1554]  INFO -- : master process ready
+I, [2017-05-24T12:37:36.854909 #1563]  INFO -- : worker=1 spawned pid=1563
+I, [2017-05-24T12:37:36.855038 #1563]  INFO -- : worker=1 ready
+DEPRECATION WARNING: Using :icon option is deprecated. Icons could not be visible in future versions. (called from block in _a8ef67592cb2ed5bb01d8bb64536fa31 at /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/solidus_globalize-1a7ba87ba907/app/views/spree/admin/translations/product.html.erb:4)
+DEPRECATION WARNING: Using :icon option is deprecated. Icons could not be visible in future versions. (called from block in _7ff4416fc7d5e055fce251c9bfa4a29e at /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/solidus_globalize-1a7ba87ba907/app/views/spree/admin/translations/product.html.erb:4)
+DEPRECATION WARNING: Using :icon option is deprecated. Icons could not be visible in future versions. (called from block in _a8ef67592cb2ed5bb01d8bb64536fa31 at /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/solidus_globalize-1a7ba87ba907/app/views/spree/admin/translations/product.html.erb:4)
+DEPRECATION WARNING: Using :icon option is deprecated. Icons could not be visible in future versions. (called from block in _7ff4416fc7d5e055fce251c9bfa4a29e at /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/solidus_globalize-1a7ba87ba907/app/views/spree/admin/translations/product.html.erb:4)
+I, [2017-05-24T13:11:59.290437 #1554]  INFO -- : reaped #<Process::Status: pid 1560 exit 0> worker=0
+I, [2017-05-24T13:11:59.290531 #1554]  INFO -- : reaped #<Process::Status: pid 1563 exit 0> worker=1
+I, [2017-05-24T13:11:59.290592 #1554]  INFO -- : master complete
+I, [2017-05-24T13:20:20.315025 #1538]  INFO -- : Refreshing Gem list
+I, [2017-05-24T13:20:29.836733 #1538]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-24T13:20:29.836880 #1538]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-24T13:20:29.836981 #1538]  INFO -- : worker=0 spawning...
+I, [2017-05-24T13:20:29.838340 #1538]  INFO -- : worker=1 spawning...
+I, [2017-05-24T13:20:29.839259 #1538]  INFO -- : master process ready
+I, [2017-05-24T13:20:29.842522 #1543]  INFO -- : worker=0 spawned pid=1543
+I, [2017-05-24T13:20:29.842662 #1543]  INFO -- : worker=0 ready
+I, [2017-05-24T13:20:29.843253 #1545]  INFO -- : worker=1 spawned pid=1545
+I, [2017-05-24T13:20:29.843373 #1545]  INFO -- : worker=1 ready
+DEPRECATION WARNING: Using :icon option is deprecated. Icons could not be visible in future versions. (called from block in _94c08c3e9b980f55f59d22c75d865a2d at /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/solidus_globalize-1a7ba87ba907/app/views/spree/admin/translations/product.html.erb:4)
+DEPRECATION WARNING: Using :icon option is deprecated. Icons could not be visible in future versions. (called from block in _cd6f6eb8e4df164ef93f9e9c6cb5d386 at /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/solidus_globalize-1a7ba87ba907/app/views/spree/admin/translations/product.html.erb:4)
+I, [2017-05-25T12:13:43.402652 #1538]  INFO -- : reaped #<Process::Status: pid 1543 exit 0> worker=0
+I, [2017-05-25T12:13:43.402741 #1538]  INFO -- : reaped #<Process::Status: pid 1545 exit 0> worker=1
+I, [2017-05-25T12:13:43.402798 #1538]  INFO -- : master complete
+I, [2017-05-25T12:15:09.139335 #1543]  INFO -- : Refreshing Gem list
+I, [2017-05-25T12:15:19.299322 #1543]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-25T12:15:19.299497 #1543]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-25T12:15:19.299604 #1543]  INFO -- : worker=0 spawning...
+I, [2017-05-25T12:15:19.300967 #1543]  INFO -- : worker=1 spawning...
+I, [2017-05-25T12:15:19.302166 #1543]  INFO -- : master process ready
+I, [2017-05-25T12:15:19.305435 #1549]  INFO -- : worker=0 spawned pid=1549
+I, [2017-05-25T12:15:19.305589 #1549]  INFO -- : worker=0 ready
+I, [2017-05-25T12:15:19.306141 #1551]  INFO -- : worker=1 spawned pid=1551
+I, [2017-05-25T12:15:19.306255 #1551]  INFO -- : worker=1 ready
+I, [2017-05-25T12:29:27.597120 #1543]  INFO -- : reaped #<Process::Status: pid 1549 exit 0> worker=0
+I, [2017-05-25T12:29:27.597206 #1543]  INFO -- : reaped #<Process::Status: pid 1551 exit 0> worker=1
+I, [2017-05-25T12:29:27.597276 #1543]  INFO -- : master complete
+I, [2017-05-25T12:31:16.254926 #1540]  INFO -- : Refreshing Gem list
+I, [2017-05-25T12:31:25.941561 #1540]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-25T12:31:25.941720 #1540]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-25T12:31:25.941816 #1540]  INFO -- : worker=0 spawning...
+I, [2017-05-25T12:31:25.943173 #1540]  INFO -- : worker=1 spawning...
+I, [2017-05-25T12:31:25.943869 #1544]  INFO -- : worker=0 spawned pid=1544
+I, [2017-05-25T12:31:25.944017 #1544]  INFO -- : worker=0 ready
+I, [2017-05-25T12:31:25.945000 #1540]  INFO -- : master process ready
+I, [2017-05-25T12:31:25.948079 #1547]  INFO -- : worker=1 spawned pid=1547
+I, [2017-05-25T12:31:25.948302 #1547]  INFO -- : worker=1 ready
+I, [2017-05-25T12:35:27.148759 #1540]  INFO -- : reaped #<Process::Status: pid 1544 exit 0> worker=0
+I, [2017-05-25T12:35:27.148846 #1540]  INFO -- : reaped #<Process::Status: pid 1547 exit 0> worker=1
+I, [2017-05-25T12:35:27.148908 #1540]  INFO -- : master complete
+I, [2017-05-25T12:36:48.203260 #1539]  INFO -- : Refreshing Gem list
+I, [2017-05-25T12:36:57.783186 #1539]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-25T12:36:57.783341 #1539]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-25T12:36:57.783434 #1539]  INFO -- : worker=0 spawning...
+I, [2017-05-25T12:36:57.784810 #1539]  INFO -- : worker=1 spawning...
+I, [2017-05-25T12:36:57.785779 #1544]  INFO -- : worker=0 spawned pid=1544
+I, [2017-05-25T12:36:57.785903 #1544]  INFO -- : worker=0 ready
+I, [2017-05-25T12:36:57.786864 #1539]  INFO -- : master process ready
+I, [2017-05-25T12:36:57.791042 #1547]  INFO -- : worker=1 spawned pid=1547
+I, [2017-05-25T12:36:57.791165 #1547]  INFO -- : worker=1 ready
+DEPRECATION WARNING: Using :icon option is deprecated. Icons could not be visible in future versions. (called from block in _1ee60225e2bdf210e8cb2d9408e4798c at /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/solidus_globalize-1a7ba87ba907/app/views/spree/admin/translations/product.html.erb:4)
+DEPRECATION WARNING: Using :icon option is deprecated. Icons could not be visible in future versions. (called from block in _adb1d212051ce910a2bbe948e1bf94fd at /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/solidus_globalize-1a7ba87ba907/app/views/spree/admin/translations/product.html.erb:4)
+DEPRECATION WARNING: Using :icon option is deprecated. Icons could not be visible in future versions. (called from block in _bb5099122768068a1d9b8ef5a6c3c0d1 at /home/haru/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/solidus_globalize-1a7ba87ba907/app/views/spree/admin/translations/property.html.erb:6)
+I, [2017-05-29T12:55:23.992954 #1539]  INFO -- : reaped #<Process::Status: pid 1544 exit 0> worker=0
+I, [2017-05-29T12:55:23.998421 #1539]  INFO -- : reaped #<Process::Status: pid 1547 exit 0> worker=1
+I, [2017-05-29T12:55:23.998513 #1539]  INFO -- : master complete
+I, [2017-05-29T12:57:35.513444 #1538]  INFO -- : Refreshing Gem list
+I, [2017-05-29T12:57:44.877493 #1538]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-05-29T12:57:44.877638 #1538]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-05-29T12:57:44.877736 #1538]  INFO -- : worker=0 spawning...
+I, [2017-05-29T12:57:44.879031 #1538]  INFO -- : worker=1 spawning...
+I, [2017-05-29T12:57:44.880287 #1538]  INFO -- : master process ready
+I, [2017-05-29T12:57:44.884342 #1543]  INFO -- : worker=0 spawned pid=1543
+I, [2017-05-29T12:57:44.884492 #1543]  INFO -- : worker=0 ready
+I, [2017-05-29T12:57:44.885106 #1546]  INFO -- : worker=1 spawned pid=1546
+I, [2017-05-29T12:57:44.885229 #1546]  INFO -- : worker=1 ready
+DEPRECATION WARNING: Setting your default country via its ID is deprecated. Please set your default country via the `default_country_iso` setting. (called from load at /home/haru/.rbenv/versions/2.4.1/bin/unicorn:22)
+I, [2017-06-06T13:06:28.565151 #1538]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2017-06-06T13:06:28.745923 #1538]  INFO -- : Refreshing Gem list
+I, [2017-06-06T13:06:28.771340 #1538]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2017-06-06T13:06:28.776083 #1538]  INFO -- : reaped #<Process::Status: pid 1543 exit 0> worker=0
+I, [2017-06-06T13:06:28.776146 #1538]  INFO -- : reaped #<Process::Status: pid 1546 exit 0> worker=1
+I, [2017-06-06T13:06:28.777958 #1538]  INFO -- : master complete
+I, [2017-06-06T13:23:34.442750 #1764]  INFO -- : Refreshing Gem list
+I, [2017-06-06T13:23:41.763668 #1764]  INFO -- : unlinking existing socket=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock
+I, [2017-06-06T13:23:41.763824 #1764]  INFO -- : listening on addr=/home/haru/rails-app/mangoec/shared/sockets/unicorn.sock fd=13
+I, [2017-06-06T13:23:41.763916 #1764]  INFO -- : worker=0 spawning...
+I, [2017-06-06T13:23:41.765180 #1764]  INFO -- : worker=1 spawning...
+I, [2017-06-06T13:23:41.765782 #1768]  INFO -- : worker=0 spawned pid=1768
+I, [2017-06-06T13:23:41.765945 #1768]  INFO -- : worker=0 ready
+I, [2017-06-06T13:23:41.766874 #1764]  INFO -- : master process ready
+I, [2017-06-06T13:23:41.770880 #1771]  INFO -- : worker=1 spawned pid=1771
+I, [2017-06-06T13:23:41.771023 #1771]  INFO -- : worker=1 ready
